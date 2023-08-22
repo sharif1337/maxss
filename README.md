@@ -2,7 +2,7 @@
 ``` XSS Scanner```
 ## Install
 ```
-go install -v github.com/sharif1337/maxss.git@latest
+go install -v github.com/sharif1337/maxss@latest
 ```
 ## Usage Example:
 ```
